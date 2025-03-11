@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+![Design sans titre](https://github.com/user-attachments/assets/0c4fb506-6e6c-43b4-a63b-362042c742de)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
